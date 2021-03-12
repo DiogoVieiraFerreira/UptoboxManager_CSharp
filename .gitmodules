@@ -1,3 +1,4 @@
 [submodule "UptoboxApi_CSharp"]
 	path = UptoboxApi_CSharp
 	url = ../UptoboxApi_CSharp
+	branch = develop
