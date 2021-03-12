@@ -1,0 +1,4 @@
+[submodule "UptoboxAPI"]
+	path = transcoder
+	url = ../UptoboxApi_CSharp.git
+	branch = master
