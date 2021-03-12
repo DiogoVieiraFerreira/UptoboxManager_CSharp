@@ -1,4 +1,3 @@
-[submodule "UptoboxAPI"]
-	path = UptoboxApi
-	url = ../UptoboxApi_CSharp.git
-	branch = master
+[submodule "UptoboxApi_CSharp"]
+	path = UptoboxApi_CSharp
+	url = ../UptoboxApi_CSharp
